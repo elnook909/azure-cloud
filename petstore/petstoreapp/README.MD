@@ -1,4 +1,4 @@
-This is the PetStoreApp, this file represents front-facing Java Spring Boot Web Application that is used in the Azure Pet Store Reference Guide.
+This is the PetStoreApp, this file represents the front-facing Java Spring Boot Web Application that is used in the Azure Pet Store Reference Guide.
 
 You are also welcome and it's encouraged to build/deploy it outside of the Azure Pet Store Reference Guide, perhaps on your local development machine just using Docker in Linux containers mode.
 
